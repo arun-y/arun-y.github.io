@@ -1,0 +1,117 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    # Site Settings
+    title: My Resume
+    url: 'http://arunyadav.me'
+    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    
+    # Profile information
+    name: Arun Yadav
+    tagline: Software Developer
+    pic: self.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    
+    # Sidebar links
+    email: aruny@protonmail.com
+    # phone: 
+    # website: blog.webjeda.com #do not add http://
+    linkedin: arun-y
+    github: arun-y
+    twitter: '@_arun_yadav_'
+
+    languages:
+        - language:
+          idiom: English
+          level: Native
+        - language:
+          idiom: French
+          level: Professional
+        - language:
+          idiom: Spanish
+          level: Professional
+        
+    interests:
+        - interest:
+          item: Climbing
+          link:
+        - interest:
+          item: Snowboarding
+          link:
+        - interest:
+          item: Cooking
+          link:
+
+        
+
+
+
+
+career-profile: 
+    title: Career Profile
+    text: 'Hands on full stack architect and engineering lead with 14 years of experience in both services and product based setup. Core interest lies in architecture, multithreaded/concurrent programs, distributed systems, web technologies, machine learning, artificial intelligence and computing in general.
+
+Currently working on IoT data analytics and platform. 
+
+In earlier days of career worked on building critical business application for banking and retail industries. 
+
+Passionate about things I do 
+Love doing things from scratch'
+
+
+studies: 
+    - education:
+      degree: Master of Computer Applications
+      university: HBTI Kanpur
+      time: 2000 - 2003
+      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem."
+
+    - education:
+      degree: BSc in Mathematics
+      university: Banaras Hindu University, Varanasi
+      time: 1996 - 1999
+      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem."
+
+
+
+experiences:
+    title: Experiences
+    experiences:
+        - role: Staff Engineer
+          time: November, 2013 - Present
+          company: Samsung R&D Institute, Bangalore
+          details: Recently working on IoT data analytics and platform as an architect and engineering lead. Earlier worked as architect and engineering lead of R&D project, which is based on natural language processing and understanding in the area of artificial intelligence. Worked on building text classification model and temporal reasoner. Designing and building scalable distributed systems. Taking care of overall architecture, coding practices including release and builds. Deployment strategy for cloud based infrastructure using containers and related technologies. Deep learning enthusiast and machine learning and data processing in general.. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        - role: Product Technical Architect
+          time: August, 2009 - October, 2013
+          company: Infosys Ltd, Bangalore
+          details: Lead the development of recommendation engine based on probabilistic matrix factorization technique. The implementation was multi-threaded which exploits multi-cores available to java virtual machine. Few data structures are built from scratch to support memory and time efficiency. The implementation was lightweight on memory requirement and efficient in computation time. This recommendation engine was designed to power various eCommerce products which requires recommendation functionality. As part of this work we have also compared and benchmarked our algorithm with stock open source algorithm from Apache Mahout. Explored other machine learning algorithms on personal capacity like Logistic Regression, K-means, PageRank and Naive Bayes Classifier.
+        - role: Consultant
+          time: August, 2005 - August, 2009
+          company: Oracle Financial Services Software Ltd, Bangalore
+          details: Worked with Banks (State Street Bank Boston and Citibank London) on their internal softwares built on Java, XML, Oracle Database.
+        - role: Software Engineer
+          time: August, 2003 - July, 2005
+          company: IBM Global Services, Bangalore
+          details: Worked on backend infrastructure of IBM.com website 
+publications:
+    title: Publications & Patents
+    # intro: "MapReduce implementation of Variational Bayesian Probabilistic Matrix Factorization algorithm"
+    publications:
+      - paper:
+        title: MapReduce implementation of Variational Bayesian Probabilistic Matrix Factorization algorithm
+        authors: 
+        conference:  2013 IEEE International Conference on Big Data, 2013
+      - paper:
+        title: Apparatus and method for automatically converting note to action reminders
+        authors: 
+        conference: Issued Nov 3, 2016  Patent issuer and numberus US 15/143,070
+
+footer: 
+    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
