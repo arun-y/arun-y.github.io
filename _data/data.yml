@@ -71,9 +71,11 @@ experiences:
         - role: Senior Software Engineer
           time: May, 2025 - Present
           company: Proton Technologies, London
+          details: Privacy by default.
         - role: Software Engineer
           time: May, 2019 - Mar 2025
           company: Meta, London
+          details: Solving privacy and data governance challenges at Meta. These are distributed systems, relies on in-house graph databases, server-less computing, remote procedure calls (thrift), offline data processing infra (python/presto), custom indexing services and caching layer. Polyglot using Hack, Python, Thrift, JavaScript.
         - role: Staff Engineer
           time: November, 2013 - Present
           company: Samsung R&D Institute, Bangalore
