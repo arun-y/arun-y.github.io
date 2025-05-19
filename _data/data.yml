@@ -78,7 +78,7 @@ experiences:
           company: Meta, London
           details: Solving privacy and data governance challenges at Meta. These are distributed systems, relies on in-house graph databases, server-less computing, remote procedure calls (thrift), offline data processing infra (python/presto), custom indexing services and caching layer. Polyglot using Hack, Python, Thrift, JavaScript.
         - role: Staff Engineer
-          time: November, 2013 - Present
+          time: November, 2013 - May, 2019
           company: Samsung R&D Institute, Bangalore
           details: Recently working on IoT data analytics and platform as an architect and engineering lead. Earlier worked as architect and engineering lead of R&D project, which is based on natural language processing and understanding in the area of artificial intelligence. Worked on building text classification model and temporal reasoner. Designing and building scalable distributed systems. Taking care of overall architecture, coding practices including release and builds. Deployment strategy for cloud based infrastructure using containers and related technologies. Deep learning enthusiast and machine learning and data processing in general.. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
         - role: Product Technical Architect
